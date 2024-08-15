@@ -15,7 +15,7 @@ I’m a Full Stack Developer with a passion for creating seamless user experienc
 
 - :telescope: Currently Working on Building a full stack <a>Video Hosting Platform</a> using NextJS and NodeJS
 - :seedling: Exploring web development frameworks and tools
-- :zap: In my free time,I try to not be idle
+- :zap: In my free time,I try to be productive
 - :mailbox: You can reach me here:dharmeshjain524@gmail.com
 <hr>
 
